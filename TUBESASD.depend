@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1717814566 source:c:\bahasac\tubesasd\main.cpp
+	<iostream>
+	"header.h"
+
+1717814472 c:\bahasac\tubesasd\header.h
+	<iostream>
+	<string>
+
+1717838508 source:c:\bahasac\tubesasd\source.cpp
+	"header.h"
+	<iomanip>
+
